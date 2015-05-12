@@ -29,7 +29,7 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
-var css = "div.selectedEntry div.recommendationInfo span, div.selectedEntry div.sourceInfo a, div.selectedEntry div a.title.read { font-weight:bold;color:black; } div.u0Entry.selectedEntry { border:2px solid black;background-color:#f9f9f9; }",
+var css = "div.u0Entry { padding-right:10px; } div.selectedEntry div.recommendationInfo span, div.selectedEntry div.sourceInfo a, div.selectedEntry div a.title.read { font-weight:bold;color:black; } div.u0Entry.selectedEntry { border:2px solid black;background-color:#f9f9f9; }",
     head = document.head || document.getElementsByTagName('head')[0],
     style = document.createElement('style');
 
