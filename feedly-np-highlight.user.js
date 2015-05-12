@@ -7,17 +7,11 @@
 // @namespace     https://github.com/henrylawson
 // @downloadURL		https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.js
 //
-// @license       GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
-// @copyright     Copyright (C) 2012, by Sepehr Lajevardi <me@sepehr.ws>
-//
 // @match 				https://feedly.com/*
 // @match 				http://feedly.com/*
 // 
 // @version         1.0
 // @updateURL				https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.js
-//
-// @run-at					document-start|document-end
-// @unwrap
 // ==/UserScript==
  
 /**
