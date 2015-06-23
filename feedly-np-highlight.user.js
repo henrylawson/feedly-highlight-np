@@ -4,7 +4,7 @@
 // @icon            https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.jpg
 //
 // @author          Henry Lawson
-// @namespace       https://github.com/henrylawson
+// @namespace       https://github.com/henrylawson/feedly-highlight-np
 // @downloadURL     https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.js
 //
 // @match           https://feedly.com/*
