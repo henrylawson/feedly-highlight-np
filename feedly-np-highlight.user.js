@@ -1,19 +1,19 @@
 // ==UserScript==
-// @name         	Feedly NP Highlight
-// @description   A simple userscript to highlight the row you are navigating using "n", "p" on feedly
-// @icon          https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.jpg
+// @name            Feedly NP Highlight
+// @description     A simple userscript to highlight the row you are navigating using "n", "p" on feedly
+// @icon            https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.jpg
 //
-// @author				Henry Lawson
-// @namespace     https://github.com/henrylawson
-// @downloadURL		https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.js
+// @author          Henry Lawson
+// @namespace       https://github.com/henrylawson
+// @downloadURL     https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.js
 //
-// @match 				https://feedly.com/*
-// @match 				http://feedly.com/*
-// 
+// @match           https://feedly.com/*
+// @match           http://feedly.com/*
+//
 // @version         1.0
-// @updateURL				https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.js
+// @updateURL       https://github.com/henrylawson/feedly-highlight-np/raw/master/feedly-np-highlight.user.js
 // ==/UserScript==
- 
+
 /**
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
